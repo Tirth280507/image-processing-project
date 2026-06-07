@@ -10,12 +10,22 @@ Pyhton
 Numpy
 Opencv
 
-// Features (Phase 1)
+// Features 
+
+Phase 1 : basic_slicing
 Load images
 Understand image shape (height, width, channels)
 Split image into quadrants
 Extract left and right halves
 Crop specific regions
+
+Phase 2: Grayscale Conversion
+
+Manual grayscale conversion using NumPy
+OpenCV grayscale conversion comparison
+Understanding color channels (BGR)
+
+
 
 // Concepts Learned
 NumPy slicing
