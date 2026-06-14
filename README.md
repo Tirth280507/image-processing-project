@@ -25,6 +25,12 @@ Manual grayscale conversion using NumPy
 OpenCV grayscale conversion comparison
 Understanding color channels (BGR)
 
+Phase 3: Brightness Adjustment
+
+Increase image brightness
+Understand pixel intensity values
+Handle overflow using clipping
+Practice array-wide transformations
 
 
 // Concepts Learned
