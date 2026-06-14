@@ -1,0 +1,1 @@
+sharpened = cv2.filter2D(img, -1, kernel)
